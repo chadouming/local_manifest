@@ -10,4 +10,8 @@
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="gh" revision="lineage-17.0" />
   <project name="ezio84/android_vendor_pixelgapps" path="vendor/pixelgapps" remote="gitlab" revision="q" />
 
+  <!-- Bonito -->
+  <project name="chadouming/android_device_google_bonito" path="device/google/bonito" remote="github" revision="lineage-17.0" />
+  <project name="LineageOS/android_kernel_google_msm-4.9" path="kernel/google/msm-4.9" remote="github" revision="lineage-17.0" />
+
 </manifest>
