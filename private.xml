@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="gh"
+           fetch="https://github.com" />
+
+  <remote  name="gl"
+           fetch="https://gitlab.com" />
+
+  <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="gh" revision="lineage-17.0" />
+  <project name="ezio84/android_vendor_pixelgapps" path="vendor/pixelgapps" remote="gitlab" revision="q" />
+
+</manifest>
